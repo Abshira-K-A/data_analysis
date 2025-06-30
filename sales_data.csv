@@ -1,0 +1,8 @@
+orderId,Date,product,category,sales,profit,region
+1001,1/11/2023,phone,electronics,500,120,south
+1002,1/5/2023,laptop,electronics,1200,300,north
+1003,1/9/2023,book,stationery,150,50,west
+1004,1/8/2023,pen,stationary,700,100,east
+1005,1/7/2023,desk,furniture,30,10,west
+1006,1/6/2023,pencil,stationary,50,200,east
+1007,1/10/2023,monitor,electronics,860,90,north
